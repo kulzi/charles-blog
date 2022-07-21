@@ -1,1 +1,1 @@
-web: gunicorn:app
+bash: gunicorn:app
