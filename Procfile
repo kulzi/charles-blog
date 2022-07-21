@@ -1,1 +1,1 @@
-bash: gunicorn:app
+web: gunicorn wsgi:app
